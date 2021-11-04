@@ -1,0 +1,4 @@
+[{
+     "Id": "EDS",
+     "Endpoint": "http://localhost:5590/api/v1/tenants/default/namespaces/default/omf/"
+}]
